@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![ppaalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppaalo&show_icons=true&theme=tokyonight)
 
-![Linguagens que uso](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&layout=compact)](https://github.com/ppaalo/ppaalo)
+
 
