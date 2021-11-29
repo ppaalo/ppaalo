@@ -17,9 +17,8 @@
 <a href="https://twitter.com/ppaalo3" alt="Twitter">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ppaalo3" /></a>
 <!--- gmail --->
-<a href="https://mailto:ppaalo3.henriquecosta@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://mailto:ppaalo3.henriquecosta@gmail.com
-" /></a>
+<a href="mailto:ppaalo3.henriquecosta@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppaalo3.henriquecosta@gmail.com" /></a>
 <!--- Instagram --->
 <a href="https://instagram.com/ppaalo" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ppaalo/"/></a>
