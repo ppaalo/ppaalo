@@ -1,4 +1,4 @@
-# ppaalo&nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/master/assets/steve.gif" width="30px">
+# ppaalo&nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/steve.gif" width="30px">
 
 ## 👋 Hi, I’m @ppaalo !! 
 
@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&layout=compact)](https://github.com/ppaalo)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
+![visitorss](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
