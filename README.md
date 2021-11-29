@@ -26,18 +26,22 @@
 <a href="https://www.twitch.tv/ppaalo3" alt="Twitch">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&https://www.twitch.tv/ppaalo3"/></a>
 </p>
-
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... --->
+<!--- ppaalo/ppaalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. --->
 
-<!---
-ppaalo/ppaalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![ppaalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppaalo&show_icons=true&theme=tokyonight)](https://github.com/ppaalo)
+<!--- [![ppaalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppaalo&show_icons=true&theme=tokyonight)](https://github.com/ppaalo) --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&layout=compact)](https://github.com/ppaalo)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&layout=compact)](https://github.com/ppaalo) --->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
+<!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode) --->
+
+<br>
+
+<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/animacao.gif" alt="Minecraft Animation" width="980">
+
+<br>
