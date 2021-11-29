@@ -1,6 +1,8 @@
-# ppaalo&nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/steve.gif" width="30px">
+# ppaalo&nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/steve.gif" width="50px">
 
-## 👋 Hi, I’m @ppaalo !! 
+<img align="right" alt="Cat Spin.gif" src="https://github.com/ppaalo/ppaalo/blob/main/assets/cat-spin.gif" width="190" />
+
+### <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/amongus.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/minecraft.gif" width="24px">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
