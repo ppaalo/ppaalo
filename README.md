@@ -41,6 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&layout=compact)](https://github.com/ppaalo)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ppaalo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<p>
 <!--- HTML5 --->
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <!--- CSS3 --->
@@ -50,10 +51,12 @@
 <!--- Java --->
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <!--- PHP --->
-<code><img height="20" src="ttps://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+</p>
 
 <br>
 
+<p>
 <!--- JSON--->
 <code><img height="20" src="https://img.shields.io/badge/json%20database-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
 <!--- MongoDB --->
@@ -62,9 +65,11 @@
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <!--- SQLite --->
 <code><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
+</p>
 
 <br>
 
+<p>
 <!--- Node.js --->
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 <!--- npm --->
@@ -78,22 +83,23 @@
 <!--- Docker --->
 <code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
 <!--- Git --->
-<code><img height="20" src="
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+</p>
 
 <br>
 
-<!--- --->
+<p>
+<!--- Express.js --->
 <code><img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
-<!--- --->
-<code><img height="20" src="
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<!--- --->
+<!--- React --->
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<!--- React Router--->
 <code><img height="20" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></code>
-<!--- --->
+<!--- Vue.js --->
 <code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></code>
-<!--- --->
+<!--- Apache --->
 <code><img height="20" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"></code>
+</p>
 
 <!--- ppaalo/ppaalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
