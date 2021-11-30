@@ -76,6 +76,6 @@ You can click the Preview link to take a look at your changes. --->
 </p>
 <p align="left">
   <a href="https://github.com/ppaalo/ppaalo/blob/main/README-pt.md" alt="turn lenguage">
-    <img src="https://github.com/ppaalo/ppaalo/blob/main/flag-portugues.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage Portugues">
+    <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/flag-portugues.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage Portugues">
   </a>
 </p>
