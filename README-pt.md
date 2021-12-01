@@ -38,7 +38,7 @@
 ## Linguagens e Ferramentas &nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/minecraft-parrot.gif" width="29px">
 
 [![ppaalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppaalo&show_icons=true&theme=tokyonight)](https://github.com/ppaalo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&layout=compact)](https://github.com/ppaalo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaalo&theme=tokyonight&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/ppaalo)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ppaalo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ppaalo)
 
 <p>
