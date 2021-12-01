@@ -4,10 +4,10 @@
 
 ### <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/amongus.gif" width="27px"> **Hello world!** &nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/minecraft.gif" width="27px">
 
-- <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/goose-left.gif" width="20vw"> My name is Paulo Henrique I started my programming journey at age 14 (2017) with PHP making plugins for Minecraft servers until 2019.
-- I love games like Minecraft, Terraria, City Skylines, Valorant and others with the same style.
-- I'm currently working on Personal Projects like my personal website, Bots for Discord and a website for reading comics from as East Asian comics
-- If you want to carry out a project with me (or chat), do not hesitate to send me a message <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/goose-right.gif" width="20vw">
+- <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/goose-left.gif" width="20vw"> My name is Paulo Henrique, I started my programming journey at age 14 (2017) with PHP making plugins for Minecraft servers until 2019.
+- I love games like Minecraft, Terraria, City Skylines, Gta V, Valorant and others with the same style.
+- I'm currently working on Personal Projects like my personal website, Bots for Discord and a website for reading comics from as East Asian.
+- If you want to carry out a project with me (or chat), do not hesitate to send me a message. <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/goose-right.gif" width="20vw">
 
 ## **Connect with me** &nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/catJAM.gif" width="29px">
 
@@ -78,8 +78,6 @@
 <code><img height="20" src="https://img.shields.io/badge/Insomnia-5849be?flat-square&logo=Insomnia&logoColor=white"></code>
 <!--- Docker --->
 <code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?flat-square&logo=docker&logoColor=white"></code>
-<!--- Git --->
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?flat-square&logo=git&logoColor=white"></code>
 </p>
 
 <p>
